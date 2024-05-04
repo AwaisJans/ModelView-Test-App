@@ -1,0 +1,2612 @@
+{
+  "items": [
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><strong><a href=\"https://www.schlier.de/gemeinde-buergerservice/unsere-gemeinde/grusswort\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Gemeinde Schlier</a></strong><br> Rathausstraße 10<br> 88281 Schlier<br> <span class=\"phonenumber\">07529 977-0</span><br> <span class=\"faxnummer\">07529 861</span><br> <a href=\"mailto:gemeindeverwaltung@schlier.de\" title=\"Öffnet ein Fenster zum Versenden der E-Mail\" class=\"mail\">E-Mail schreiben</a></p> <p><strong>Öffnungszeiten: </strong></p> <p>Montag, Dienstag, Donnerstag und Freitag: 08:00 Uhr bis 12:00 Uhr<br> Mittwoch: 09:00 Uhr - 12:00 Uhr<br> Donnerstag: 14:00 Uhr bis 18:30 Uhr</p></body></html>",
+      "bezeichnung": "Rathaus Schlier",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1004,
+        "url": "https://www.schlier.de/fileadmin/_processed_/c/8/csm_20170418_193310_RB_6e0a74f5bc.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1004,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/8/csm_20170418_193310_RB_6e0a74f5bc.jpg"
+        },
+        {
+          "bezeichnung": "Rathaus Schlier",
+          "id": 1005,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/8/csm_20170418_193310_RB_6e0a74f5bc.jpg"
+        },
+        {
+          "bezeichnung": "Rathaus Schlier",
+          "id": 1006,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/e/csm_20170418_193248_RB_6f5502a0b1.jpg"
+        },
+        {
+          "bezeichnung": "Rathaus Schlier",
+          "id": 1007,
+          "url": "https://www.schlier.de/fileadmin/_processed_/4/3/csm_20170418_193240_RB_983ded6c0e.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 2,
+      "kategorien": [
+        {
+          "bezeichnung": "Behörden",
+          "id": 2,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "yellow",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Behörden",
+        "id": 2,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "yellow",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.769448894354,
+            "lng": 9.6745347976685
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=2&singleItemId=2&cHash=9e5e979977f56ebf5e69f973be3b43ff",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=2&singleItemId=2&cHash=a325ed046254e85d44ae9718ff558e5f",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><strong>Kindergarten St. Martin<br></strong>Leiterin Frau Rieser<br>Wagnerweg 17<br>88281 Schlier<br><span class=\"phonenumber\">07529 3632</span><br><a href=\"https://www.kiga-sanktmartin-schlier.de\" title=\"Link zur Homepage Kiga St. Martin - Öffnet externen Link in neuem Fenster\" target=\"_blank\" class=\"external-link-new-window\">Weiter zur Homepage</a></p></body></html>",
+      "bezeichnung": "Kindergarten St. Martin",
+      "bild": {
+        "bezeichnung": "Kindergarten Schlier",
+        "id": 1008,
+        "url": "https://www.schlier.de/fileadmin/_processed_/1/0/csm_kindergarten_schlier_01_9493d661ae.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Kindergarten Schlier",
+          "id": 1008,
+          "url": "https://www.schlier.de/fileadmin/_processed_/1/0/csm_kindergarten_schlier_01_9493d661ae.jpg"
+        },
+        {
+          "bezeichnung": "Kindergarten Schlier",
+          "id": 1009,
+          "url": "https://www.schlier.de/fileadmin/_processed_/1/0/csm_kindergarten_schlier_01_6f79a9d5e2.jpg"
+        },
+        {
+          "bezeichnung": "Kindergarten Schlier",
+          "id": 1010,
+          "url": "https://www.schlier.de/fileadmin/_processed_/e/3/csm_kindergarten_schlier_13_7756347a32.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 3,
+      "kategorien": [
+        {
+          "bezeichnung": "Schulen / Kindergärten",
+          "id": 3,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "violet",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Schulen / Kindergärten",
+        "id": 3,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.768688126491,
+            "lng": 9.6748727560043
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=3&singleItemId=3&cHash=c0db1a4269d42e414766152d9f3d796f",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=3&singleItemId=3&cHash=fe1d19430ea7327f9a1ee609ce8972a4",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><strong>Kindergarten St. Maria<br></strong>Leiterin Frau Maurer<br>Friedhofstraße 5<br>88281 Schlier-Unterankenreute<br><span class=\"phonenumber\">07529 827</span></p></body></html>",
+      "bezeichnung": "Kindergarten St. Maria",
+      "bild": {
+        "bezeichnung": "Kindergarten Unterankenreute",
+        "id": 1011,
+        "url": "https://www.schlier.de/fileadmin/_processed_/e/1/csm_kindergarten_unterankenreute_1_9fdee1a6f6.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Kindergarten Unterankenreute",
+          "id": 1011,
+          "url": "https://www.schlier.de/fileadmin/_processed_/e/1/csm_kindergarten_unterankenreute_1_9fdee1a6f6.jpg"
+        },
+        {
+          "bezeichnung": "Kindergarten Unterankenreute",
+          "id": 1012,
+          "url": "https://www.schlier.de/fileadmin/_processed_/e/1/csm_kindergarten_unterankenreute_1_9fdee1a6f6.jpg"
+        },
+        {
+          "bezeichnung": "",
+          "id": 1013,
+          "url": "https://www.schlier.de/fileadmin/_processed_/3/6/csm_kindergarten_unterankenreute_5_7107d2c7cd.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 4,
+      "kategorien": [
+        {
+          "bezeichnung": "Schulen / Kindergärten",
+          "id": 3,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "violet",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Schulen / Kindergärten",
+        "id": 3,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.799996602873,
+            "lng": 9.6984922885895
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=3&singleItemId=4&cHash=123cea139e28015eaa351a3180547962",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=3&singleItemId=4&cHash=6688988ba7a5c7f4e66705561ce1ff00",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Dorfweiher Schlier</p></body></html>",
+      "bezeichnung": "Dorfweiher Schlier",
+      "bild": {
+        "bezeichnung": "Dorfweiher Schlier",
+        "id": 1019,
+        "url": "https://www.schlier.de/fileadmin/_processed_/e/a/csm_20170407_175020_RB_0cf1123510.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Dorfweiher Schlier",
+          "id": 1019,
+          "url": "https://www.schlier.de/fileadmin/_processed_/e/a/csm_20170407_175020_RB_0cf1123510.jpg"
+        },
+        {
+          "bezeichnung": "Dorfweiher Schlier",
+          "id": 1020,
+          "url": "https://www.schlier.de/fileadmin/_processed_/d/6/csm_20170407_174123_RB_1893897928.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 6,
+      "kategorien": [
+        {
+          "bezeichnung": "Park / Natur",
+          "id": 5,
+          "icon": "fa-tree-alt",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Park / Natur",
+        "id": 5,
+        "icon": "fa-tree-alt",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.770396653734,
+            "lng": 9.6767277716935
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=5&singleItemId=6&cHash=56d779d480b4d9b46d9ed57f2bfbb8d3",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=5&singleItemId=6&cHash=cdff6c060c4890e66f76f83e9072f9cc",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/schulen/grundschule-schlier\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Grundschule Schlier</a><br>Schulleiter Rudolf Lorenz<br>Schulstr. 21<br>88281 Schlier<br><span class=\"phonenumber\">07529 2627</span><br><a href=\"http://www.grundschule-schlier.de/\" title=\"Öffnet externen Link im neuen Fenster\" target=\"_blank\" class=\"external-link-new-window\">weiter zur Homepage</a></p></body></html>",
+      "bezeichnung": "Grundschule Schlier",
+      "bild": {
+        "bezeichnung": "Grundschule Schlier",
+        "id": 1022,
+        "url": "https://www.schlier.de/fileadmin/_processed_/1/4/csm_schule_schlier_13_bd3f01cbf2.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Grundschule Schlier",
+          "id": 1022,
+          "url": "https://www.schlier.de/fileadmin/_processed_/1/4/csm_schule_schlier_13_bd3f01cbf2.jpg"
+        },
+        {
+          "bezeichnung": "Grundschule Schlier",
+          "id": 1023,
+          "url": "https://www.schlier.de/fileadmin/_processed_/1/4/csm_schule_schlier_13_bd3f01cbf2.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 8,
+      "kategorien": [
+        {
+          "bezeichnung": "Schulen / Kindergärten",
+          "id": 3,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "violet",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Schulen / Kindergärten",
+        "id": 3,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.772401722008,
+            "lng": 9.6785259246826
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=3&singleItemId=8&cHash=dc3bfb9a97c3ab60e533feca6e0cad70",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=3&singleItemId=8&cHash=edcfb189db8baa23fb28ae82c9f5df47",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/schulen/grundschule-unterankenreute\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Grundschule Unterankenreute</a><br>Schulleiter Werner Steiner<br>Friedhofstr. 10<br>88281 Schlier - Unterankenreute<br><span class=\"phonenumber\">07529 6547</span><br><a href=\"http://www.schule-unterankenreute-schlier.de/\" title=\"Öffnet externen Link im neuen Fenster\" target=\"_blank\" class=\"external-link-new-window\">weiter zur Homepage</a></p></body></html>",
+      "bezeichnung": "Grundschule Unterankenreute",
+      "bild": {
+        "bezeichnung": "Grundschule Unterankenreute",
+        "id": 1024,
+        "url": "https://www.schlier.de/fileadmin/_processed_/d/6/csm_Schule_UA_neu_f65e9de530.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Grundschule Unterankenreute",
+          "id": 1024,
+          "url": "https://www.schlier.de/fileadmin/_processed_/d/6/csm_Schule_UA_neu_f65e9de530.jpg"
+        },
+        {
+          "bezeichnung": "Grundschule Unterankenreute",
+          "id": 1025,
+          "url": "https://www.schlier.de/fileadmin/_processed_/d/6/csm_Schule_UA_neu_f65e9de530.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 9,
+      "kategorien": [
+        {
+          "bezeichnung": "Schulen / Kindergärten",
+          "id": 3,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "violet",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Schulen / Kindergärten",
+        "id": 3,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.799886339101,
+            "lng": 9.6993505954742
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=3&singleItemId=9&cHash=18dc6c4f42b5e484f4b247a975afe04d",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=3&singleItemId=9&cHash=9f63eaa37d6d8e6e200b6a10d67570e3",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Dorfgemeinschaftshaus Unterankenreute<br>Laurentiusstraße 6<br>88281 Schlier - Unterankenreute</p></body></html>",
+      "bezeichnung": "Dorfgemeinschaftshaus Unterankenreute (DGH)",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1026,
+        "url": "https://www.schlier.de/fileadmin/_processed_/b/1/csm_dorfgemeinschaftshaus_unterankenreute_04_fdb8d5462c.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1026,
+          "url": "https://www.schlier.de/fileadmin/_processed_/b/1/csm_dorfgemeinschaftshaus_unterankenreute_04_fdb8d5462c.jpg"
+        },
+        {
+          "bezeichnung": "Dorfgemeinschaftshaus Unterankenreute (DGH)",
+          "id": 1027,
+          "url": "https://www.schlier.de/fileadmin/_processed_/a/b/csm_dorfgemeinschaftshaus_unterankenreute_01_4e89655ac7.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 10,
+      "kategorien": [
+        {
+          "bezeichnung": "Allgemein",
+          "id": 7,
+          "icon": "fa-info-circle",
+          "icon_style": "fal",
+          "farbe": "cyan",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Allgemein",
+        "id": 7,
+        "icon": "fa-info-circle",
+        "icon_style": "fal",
+        "farbe": "cyan",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.799588337194,
+            "lng": 9.698047041893
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=7&singleItemId=10&cHash=38f1871f83dd068494438abf23ba97db",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=7&singleItemId=10&cHash=f5533e691d9d22f43e5f31fd615f7930",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/kinderspielplaetze\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Spielplatz Dorfplatz</a><br>88281 Schlier</p></body></html>",
+      "bezeichnung": "Spielplatz Dorfplatz",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 11,
+      "kategorien": [
+        {
+          "bezeichnung": "Spielplätze",
+          "id": 8,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "pink",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Spielplätze",
+        "id": 8,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "pink",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.770295761313,
+            "lng": 9.6756988763809
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=8&singleItemId=11&cHash=4968d5ebe5e4261627466cf135bfca50",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=8&singleItemId=11&cHash=9513b97bee75edb2ee5b6de68e1c0900",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/kinderspielplaetze\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Spielplatz Säntisweg/Tödiweg</a><br>88281 Schlier</p></body></html>",
+      "bezeichnung": "Spielplatz Tödiweg",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1028,
+        "url": "https://www.schlier.de/fileadmin/_processed_/0/5/csm_spielplatz_schlier_8_7bf08f4d64.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1028,
+          "url": "https://www.schlier.de/fileadmin/_processed_/0/5/csm_spielplatz_schlier_8_7bf08f4d64.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Schlier",
+          "id": 1029,
+          "url": "https://www.schlier.de/fileadmin/_processed_/0/5/csm_spielplatz_schlier_8_7bf08f4d64.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 12,
+      "kategorien": [
+        {
+          "bezeichnung": "Spielplätze",
+          "id": 8,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "pink",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Spielplätze",
+        "id": 8,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "pink",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.767576520118,
+            "lng": 9.6771955490112
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=8&singleItemId=12&cHash=083da145b22fa8c3ba3963f9b03b573d",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=8&singleItemId=12&cHash=cea91a44df2e1c7809dd9df884118acf",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/kinderspielplaetze\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Spielplatz Unterankenreute</a><br>Lindenweg<br>88281 Schlier - Unterankenreute</p></body></html>",
+      "bezeichnung": "Spielplatz Unterankenreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1030,
+        "url": "https://www.schlier.de/fileadmin/_processed_/3/a/csm_spielplatz_linsenberg_06_cb3d160de9.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1030,
+          "url": "https://www.schlier.de/fileadmin/_processed_/3/a/csm_spielplatz_linsenberg_06_cb3d160de9.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Unterankenreute",
+          "id": 1031,
+          "url": "https://www.schlier.de/fileadmin/_processed_/3/a/csm_spielplatz_linsenberg_06_cb3d160de9.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Unterankenreute",
+          "id": 1032,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/e/csm_spielplatz_linsenberg_14_4f535dd934.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Unterankenreute",
+          "id": 1033,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/0/csm_spielplatz_linsenberg_09_9ee2214bd2.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 13,
+      "kategorien": [
+        {
+          "bezeichnung": "Spielplätze",
+          "id": 8,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "pink",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Spielplätze",
+        "id": 8,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "pink",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.801876457612,
+            "lng": 9.6922266483307
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=8&singleItemId=13&cHash=cad96e130fb88f9ec2c0459575c11ecf",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=8&singleItemId=13&cHash=c6fd037e72d3d88b80d9c6dc3d3195a6",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/kinderspielplaetze\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Spielplatz Wetzisreute</a><br>Boserstraße<br>88281 Schlier - Wetzisreute</p></body></html>",
+      "bezeichnung": "Spielplatz Wetzisreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1034,
+        "url": "https://www.schlier.de/fileadmin/_processed_/2/0/csm_spielplatz_wetzistreute_13_68cf33d0d8.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1034,
+          "url": "https://www.schlier.de/fileadmin/_processed_/2/0/csm_spielplatz_wetzistreute_13_68cf33d0d8.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Wetzisreute",
+          "id": 1035,
+          "url": "https://www.schlier.de/fileadmin/_processed_/2/0/csm_spielplatz_wetzistreute_13_68cf33d0d8.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Wetzisreute",
+          "id": 1036,
+          "url": "https://www.schlier.de/fileadmin/_processed_/5/c/csm_spielplatz_wetzistreute_11_8d6a11ca87.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Wetzisreute",
+          "id": 1037,
+          "url": "https://www.schlier.de/fileadmin/_processed_/1/a/csm_spielplatz_wetzistreute_09_eda50a675a.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 14,
+      "kategorien": [
+        {
+          "bezeichnung": "Spielplätze",
+          "id": 8,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "pink",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Spielplätze",
+        "id": 8,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "pink",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.777368511908,
+            "lng": 9.6990555524826
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=8&singleItemId=14&cHash=b2dbd394755123bd80c5fe8be83bb85c",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=8&singleItemId=14&cHash=5716c99def05ec6ce480ecba27606d64",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/kinderspielplaetze\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Waldspielplatz Fenken</a><br>Waldeckweg<br>88281 Schlier - Fenken</p></body></html>",
+      "bezeichnung": "Spielplatz Fenken",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1038,
+        "url": "https://www.schlier.de/fileadmin/_processed_/0/a/csm_spielplatz_fenken_07_f1e5c18d31.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1038,
+          "url": "https://www.schlier.de/fileadmin/_processed_/0/a/csm_spielplatz_fenken_07_f1e5c18d31.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Fenken",
+          "id": 1039,
+          "url": "https://www.schlier.de/fileadmin/_processed_/0/a/csm_spielplatz_fenken_07_f1e5c18d31.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Fenken",
+          "id": 1040,
+          "url": "https://www.schlier.de/fileadmin/_processed_/7/f/csm_spielplatz_fenken_02_9a708c7d4f.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 15,
+      "kategorien": [
+        {
+          "bezeichnung": "Spielplätze",
+          "id": 8,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "pink",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Spielplätze",
+        "id": 8,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "pink",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.776853000149,
+            "lng": 9.6563011407852
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=8&singleItemId=15&cHash=fe18ec7767ed735cf9037daf70d27a68",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=8&singleItemId=15&cHash=e42a52103873b79fd9b1ff538264f202",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/kinderspielplaetze\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Spielplatz Oberankenreute</a><br>Ginsterweg<br>88281 Schlier - Oberankenreute</p></body></html>",
+      "bezeichnung": "Spielplatz Oberankenreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1041,
+        "url": "https://www.schlier.de/fileadmin/_processed_/b/2/csm_spielplatz_oberankenreute_1_f3acf87627.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1041,
+          "url": "https://www.schlier.de/fileadmin/_processed_/b/2/csm_spielplatz_oberankenreute_1_f3acf87627.jpg"
+        },
+        {
+          "bezeichnung": "Spielplatz Oberankenreute",
+          "id": 1042,
+          "url": "https://www.schlier.de/fileadmin/_processed_/b/2/csm_spielplatz_oberankenreute_1_f3acf87627.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 16,
+      "kategorien": [
+        {
+          "bezeichnung": "Spielplätze",
+          "id": 8,
+          "icon": "fa-child",
+          "icon_style": "fas",
+          "farbe": "pink",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Spielplätze",
+        "id": 8,
+        "icon": "fa-child",
+        "icon_style": "fas",
+        "farbe": "pink",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.79645434948,
+            "lng": 9.7051012516022
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=8&singleItemId=16&cHash=e34268094050124448c7d4a074500c4d",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=8&singleItemId=16&cHash=bec6fa4a1037543f86b991c46c6e25b5",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Dorfplatz<br>88281 Schlier </p> <p><span class=\"text-highlight\">nur Bankautomat</span></p></body></html>",
+      "bezeichnung": "Kreissparkasse Ravensburg",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 19,
+      "kategorien": [
+        {
+          "bezeichnung": "Banken",
+          "id": 9,
+          "icon": "fa-building",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Banken",
+        "id": 9,
+        "icon": "fa-building",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.770334940527,
+            "lng": 9.6748512983322
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=9&singleItemId=19&cHash=dd5ffe843147c13609a61d4abbad6864",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=9&singleItemId=19&cHash=23159bdb6c61e7eaa8e9f63d0759b777",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Filiale Schlier<br>Dorfplatz 23<br>88281 Schlier </p> <p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Mo-Mi: 09:00-10:30<br>Do-Fr: 16:30-18:00<br>Sa: 09:00-10:30<br><br></p></body></html>",
+      "bezeichnung": "Deutsche Post, Filiale Schlier",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 20,
+      "kategorien": [
+        {
+          "bezeichnung": "Behörden",
+          "id": 2,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "yellow",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Behörden",
+        "id": 2,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "yellow",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.770357474566,
+            "lng": 9.6754360198975
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=2&singleItemId=20&cHash=15883919d32d9f6ab3fda166de45b76f",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=2&singleItemId=20&cHash=460ba5ad2dac9c3fb1235154a0ffe8c8",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/vereine-organisationen/kirchen\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Kath. Pfarramt Schlier</a><br>Frau Anita Friedrich<br>Rathausstr. 12<br>88281 Schlier<br><span class=\"phonenumber\">07529 854</span><br><a href=\"http://www.unsere-seelsorgeeinheit.de\" title=\"Öffnet externen Link im neuen Fenster\" target=\"_blank\" class=\"external-link-new-window\">weiter zur Homepage</a> </p> <p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Montag 9:00 - 11:00 Uhr<br>Mittwoch 8:00 - 9:30 Uhr<br>Donnerstag 9:00 - 11:00 Uhr<br>und 15:00 - 16:30 Uhr</p></body></html>",
+      "bezeichnung": "Kath. Pfarramt Schlier",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 21,
+      "kategorien": [
+        {
+          "bezeichnung": "Behörden",
+          "id": 2,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "yellow",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Behörden",
+        "id": 2,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "yellow",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.769144949141,
+            "lng": 9.674985408783
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=2&singleItemId=21&cHash=509afc585fff53293ea2d4107f0d6318",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=2&singleItemId=21&cHash=cbd1462219beb4617fc94302b2e32d34",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Sozialstation St. Martin<br>Rathausstr. 16<br>88281 Schlier<br><span class=\"phonenumber\">07529 855</span><br><a href=\"mailto:a.meger@sozialstation-schlier.de\" title=\"Öffnet externen Link im neuen Fenster\" class=\"mail\">E-Mail</a><br><a href=\"http://www.sozialstation-schlier.de\" title=\"Öffnet externen Link im neuen Fenster\" target=\"_blank\" class=\"external-link-new-window\">weiter zur Homepage</a> </p> <p><a href=\"https://www.schlier.de/leben-freizeit/gesundheit/sozialdienste\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Info</a></p></body></html>",
+      "bezeichnung": "Sozialstation St. Martin",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 22,
+      "kategorien": [
+        {
+          "bezeichnung": "Gesundheit",
+          "id": 10,
+          "icon": "fa-ambulance",
+          "icon_style": "fal",
+          "farbe": "orange",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Gesundheit",
+        "id": 10,
+        "icon": "fa-ambulance",
+        "icon_style": "fal",
+        "farbe": "orange",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.768914194735,
+            "lng": 9.6753180027008
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=10&singleItemId=22&cHash=29835df467c6bdcc2dc89c5dd4f3056a",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=10&singleItemId=22&cHash=84aa2bdde2e0474b3695875b3e4a28f7",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/vereine-organisationen/kirchen\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Pfarrkirche St. Martin</a><br>Schlier</p></body></html>",
+      "bezeichnung": "Kath. Kirche Schlier",
+      "bild": {
+        "bezeichnung": "Katholische Kirche Schlier",
+        "id": 1043,
+        "url": "https://www.schlier.de/fileadmin/_processed_/8/2/csm_20170330_171957_RB_814fbab353.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Katholische Kirche Schlier",
+          "id": 1043,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/2/csm_20170330_171957_RB_814fbab353.jpg"
+        },
+        {
+          "bezeichnung": "Katholische Kirche Schlier",
+          "id": 1044,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/2/csm_20170330_171957_RB_814fbab353.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 23,
+      "kategorien": [
+        {
+          "bezeichnung": "Glaube",
+          "id": 11,
+          "icon": "fa-heart",
+          "icon_style": "fal",
+          "farbe": "violet",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Glaube",
+        "id": 11,
+        "icon": "fa-heart",
+        "icon_style": "fal",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.770792650066,
+            "lng": 9.6751999855041
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=11&singleItemId=23&cHash=d6543e85ed2703efc53e89f32bd4dc3f",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=11&singleItemId=23&cHash=bc62aab64b71a9b3d082ae0ec9edfc59",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/vereine-organisationen/kirchen\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Pfarrkirche Mariä Himmelfahrt</a><br>Unterankenreute</p></body></html>",
+      "bezeichnung": "Kath. Kirche Unterankenreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1045,
+        "url": "https://www.schlier.de/fileadmin/_processed_/6/e/csm_kirche_unterankenreute_4_ac4c4cf0c8.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1045,
+          "url": "https://www.schlier.de/fileadmin/_processed_/6/e/csm_kirche_unterankenreute_4_ac4c4cf0c8.jpg"
+        },
+        {
+          "bezeichnung": "Kirche Unterankenreute",
+          "id": 1046,
+          "url": "https://www.schlier.de/fileadmin/_processed_/3/a/csm_kirche_unterankenreute_3_82e0b628c9.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 24,
+      "kategorien": [
+        {
+          "bezeichnung": "Glaube",
+          "id": 11,
+          "icon": "fa-heart",
+          "icon_style": "fal",
+          "farbe": "violet",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Glaube",
+        "id": 11,
+        "icon": "fa-heart",
+        "icon_style": "fal",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.79948383795,
+            "lng": 9.6983474493027
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=11&singleItemId=24&cHash=9fef762265a37156a5c0243deb331401",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=11&singleItemId=24&cHash=593c7cce0c2be9e981281b5b4887b08a",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/bildung/buecherei\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Kath. öffentliche Bücherei Unterankenreute</a><br>Laurentiusstr. 6<br>(im Dorfgemeinschaftshaus)<br>88281 Schlier - Unterenkenreute<br><span class=\"phonenumber\">07529 913632</span></p><div class=\"indent\"><div class=\"indent\"><div class=\"indent\"><p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Montag17:00 - 18:30 Uhr<br>Dienstag15:30 - 17:30 Uhr<br>Donnerstag15:30 - 17:30 Uhr<br>in den Schulferien geschlossen<br> </p></div></div></div></body></html>",
+      "bezeichnung": "Kath. öffentliche Bücherei Unterankenreute",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 25,
+      "kategorien": [
+        {
+          "bezeichnung": "Büchereien",
+          "id": 12,
+          "icon": "fa-home",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Büchereien",
+        "id": 12,
+        "icon": "fa-home",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.799570320098,
+            "lng": 9.6980953216553
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=12&singleItemId=25&cHash=664f3ee225bbe125a43f34519a4df819",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=12&singleItemId=25&cHash=2b336493c07e7a80b696cbd5aee45a58",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/bildung/buecherei\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Kath. öffentliche Bücherei Schlier</a><br>Kirchstraße 3<br>88281 Schlier </p> <p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Montag: 16:00 Uhr bis 18:00 Uhr<br>Freitag: 16:00 Uhr bis 19:00 Uhr</p></body></html>",
+      "bezeichnung": "Kath. öffentliche Bücherei Schlier",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 26,
+      "kategorien": [
+        {
+          "bezeichnung": "Büchereien",
+          "id": 12,
+          "icon": "fa-home",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Büchereien",
+        "id": 12,
+        "icon": "fa-home",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.771282263124,
+            "lng": 9.6745991706848
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=12&singleItemId=26&cHash=3ff089ee9de0effef5c9d8004205c5e5",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=12&singleItemId=26&cHash=396048221e98e85d55c5dad87d871ad8",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Jahnstraße 45<br> 88281 Schlier - Wetzisreute</p></body></html>",
+      "bezeichnung": "Turn- und Festhalle Wetzisreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1047,
+        "url": "https://www.schlier.de/fileadmin/_processed_/c/b/csm_halle_wetzisreute_04_940644a940.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1047,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/b/csm_halle_wetzisreute_04_940644a940.jpg"
+        },
+        {
+          "bezeichnung": "Turn- und Festhalle Wetzisreute",
+          "id": 1048,
+          "url": "https://www.schlier.de/fileadmin/_processed_/6/9/csm_halle_wetzisreute_03_13b568bf57.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 27,
+      "kategorien": [
+        {
+          "bezeichnung": "Freizeit",
+          "id": 6,
+          "icon": "fa-futbol",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Freizeit",
+        "id": 6,
+        "icon": "fa-futbol",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.785060205346,
+            "lng": 9.7010672092438
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=6&singleItemId=27&cHash=1dd2495a17f1840dfdc2d7856aa27862",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=6&singleItemId=27&cHash=363d2d7cbce953c353cf0bef5656cab7",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Jahnstraße 47<br>88281 Schlier - Wetzisreute<br>(bei der Turn- und Festhalle)</p></body></html>",
+      "bezeichnung": "Sportplatz Wetzisreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1049,
+        "url": "https://www.schlier.de/fileadmin/_processed_/e/f/csm_sportplatz_wetzistreute_01_ff5c161e5e.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1049,
+          "url": "https://www.schlier.de/fileadmin/_processed_/e/f/csm_sportplatz_wetzistreute_01_ff5c161e5e.jpg"
+        },
+        {
+          "bezeichnung": "Sportplatz Wetzisreute",
+          "id": 1050,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/e/csm_sportplatz_wetzistreute_10_49b956689a.jpg"
+        },
+        {
+          "bezeichnung": "Sportplatz Wetzisreute",
+          "id": 1051,
+          "url": "https://www.schlier.de/fileadmin/_processed_/4/c/csm_sportplatz_wetzistreute_13_2ab4c3ac85.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 28,
+      "kategorien": [
+        {
+          "bezeichnung": "Freizeit",
+          "id": 6,
+          "icon": "fa-futbol",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Freizeit",
+        "id": 6,
+        "icon": "fa-futbol",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.783993284262,
+            "lng": 9.7012495994568
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=6&singleItemId=28&cHash=d464b75209e487f62ce4fdd50dae73c4",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=6&singleItemId=28&cHash=10d0b887ffbdbf4a290866dd60131acc",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Jahnstraße 47<br>88281 Schlier - Wetzisreute<br>(hinter der Turn- und Festhalle)</p></body></html>",
+      "bezeichnung": "Tennisplatz Wetzisreute",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1052,
+        "url": "https://www.schlier.de/fileadmin/_processed_/c/e/csm_tennisplaetze_wetzistreute_8_6c69dbdf76.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1052,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/e/csm_tennisplaetze_wetzistreute_8_6c69dbdf76.jpg"
+        },
+        {
+          "bezeichnung": "Tennisplatz Wetzisreute",
+          "id": 1053,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/e/csm_tennisplaetze_wetzistreute_8_6c69dbdf76.jpg"
+        },
+        {
+          "bezeichnung": "Tennisheim Wetzisreute",
+          "id": 1054,
+          "url": "https://www.schlier.de/fileadmin/_processed_/7/f/csm_tennisplaetze_wetzistreute_4_1b91f9c3bd.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 29,
+      "kategorien": [
+        {
+          "bezeichnung": "Freizeit",
+          "id": 6,
+          "icon": "fa-futbol",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Freizeit",
+        "id": 6,
+        "icon": "fa-futbol",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.785420286357,
+            "lng": 9.7001981735229
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=6&singleItemId=29&cHash=f9635b5661a6c0d8b9ff9412f8439203",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=6&singleItemId=29&cHash=7a49b63f799b8b850cdb51dc89640a00",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/jugend/juca\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">JuCa</a><br>Jahnstraße 47<br>88281 Schlier - Wetzisreute<br>(zwischen Tennis- und Sportplatz)</p></body></html>",
+      "bezeichnung": "JuCa (Jugendcafé)",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1055,
+        "url": "https://www.schlier.de/fileadmin/_processed_/d/3/csm_Bild2_10f1801040.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1055,
+          "url": "https://www.schlier.de/fileadmin/_processed_/d/3/csm_Bild2_10f1801040.jpg"
+        },
+        {
+          "bezeichnung": "JuCa",
+          "id": 1056,
+          "url": "https://www.schlier.de/fileadmin/_processed_/5/1/csm_Bild15_b5a0b1d4f6.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 30,
+      "kategorien": [
+        {
+          "bezeichnung": "Freizeit",
+          "id": 6,
+          "icon": "fa-futbol",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Freizeit",
+        "id": 6,
+        "icon": "fa-futbol",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.784430147884,
+            "lng": 9.6999621391296
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=6&singleItemId=30&cHash=dc03e4e9a9ca4aa97f1b3e86b2bae808",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=6&singleItemId=30&cHash=35b7f2c2874a5b2879e6338c00e4df70",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/gemeinde-buergerservice/rathaus/einrichtungen/wertstoffhof\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Wertstoffhof Wetzisreute</a><br> Truchseßstraße 31<br> 88281 Schlier - Wetzisreute</p> <p><span class=\"text-highlight\">Öffnungszeiten:</span><br> <strong>Sommerzeit</strong><br> Montag 17:00 - 19:00 Uhr<br> Freitag 17:00 - 19:00 Uhr<br> Samstag 14:00 - 16:00 Uhr</p> <p><strong>Winterzeit</strong><br> Montag entfällt<br> Freitag 16:30 - 19:00 Uhr<br> Samstag 14:00 - 16:00 Uhr</p> <p><strong>Zeitgleich mit der Uhrumstellung!</strong></p></body></html>",
+      "bezeichnung": "Wertstoffhof Wetzisreute",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 31,
+      "kategorien": [
+        {
+          "bezeichnung": "Behörden",
+          "id": 2,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "yellow",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Behörden",
+        "id": 2,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "yellow",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.782462070107,
+            "lng": 9.6984171867371
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 1,
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=2&singleItemId=31&cHash=eca0291d8c3403c2a71015d7f01e0a7b",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=2&singleItemId=31&cHash=0799acb26c1956e7bbfc234c92816279",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Feuerwehrhaus der Gemeinde Schlier<br>Truchseßstraße 31<br>88281 Schlier - Wetzisreute</p></body></html>",
+      "bezeichnung": "Feuerwehr Schlier",
+      "bild": {
+        "bezeichnung": "",
+        "id": 1057,
+        "url": "https://www.schlier.de/fileadmin/_processed_/c/e/csm_feuerwehrhaus_wetzisreute_2_d52a536e62.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "",
+          "id": 1057,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/e/csm_feuerwehrhaus_wetzisreute_2_d52a536e62.jpg"
+        },
+        {
+          "bezeichnung": "Feuerwehrhaus",
+          "id": 1058,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/6/csm_feuerwehrhaus_wetzisreute_1_c8c69c9903.jpg"
+        },
+        {
+          "bezeichnung": "Feuerwehrauto",
+          "id": 1059,
+          "url": "https://www.schlier.de/fileadmin/_processed_/b/4/csm_20160409-IMG_4474_30d0649680.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 32,
+      "kategorien": [
+        {
+          "bezeichnung": "Feuerwehr",
+          "id": 13,
+          "icon": "fa-fire",
+          "icon_style": "fal",
+          "farbe": "orange-dark",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Feuerwehr",
+        "id": 13,
+        "icon": "fa-fire",
+        "icon_style": "fal",
+        "farbe": "orange-dark",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.78202482957,
+            "lng": 9.6985566616058
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=13&singleItemId=32&cHash=8f2cb874496a510951a006487b3a6dcd",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=13&singleItemId=32&cHash=e0bda66da6b9089b3919d64c9334eda5",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Bauhof der Gemeinde Schlier<br>Truchseßstr. 31<br>88281 Schlier - Wetzisreute</p></body></html>",
+      "bezeichnung": "Bauhof Schlier",
+      "bild": {
+        "bezeichnung": "Bauhof Schlier",
+        "id": 1060,
+        "url": "https://www.schlier.de/fileadmin/_processed_/c/7/csm_bauhof_wetzisreute_4_9bd70a96ab.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Bauhof Schlier",
+          "id": 1060,
+          "url": "https://www.schlier.de/fileadmin/_processed_/c/7/csm_bauhof_wetzisreute_4_9bd70a96ab.jpg"
+        },
+        {
+          "bezeichnung": "",
+          "id": 1061,
+          "url": "https://www.schlier.de/fileadmin/_processed_/f/e/csm_bauhof_wetzisreute_7_13900b1982.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 33,
+      "kategorien": [
+        {
+          "bezeichnung": "Behörden",
+          "id": 2,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "yellow",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Behörden",
+        "id": 2,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "yellow",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.782328699503,
+            "lng": 9.6988195180893
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=2&singleItemId=33&cHash=bb77e09dd215b0d35ec101e0cdc72c9d",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=2&singleItemId=33&cHash=cf1e0a527d8c3aaf93b7573101877440",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Aussegungshalle<br>Eibeschstraße<br>88281 Schlier</p></body></html>",
+      "bezeichnung": "Friedhof Schlier",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 34,
+      "kategorien": [
+        {
+          "bezeichnung": "Friedhöfe",
+          "id": 14,
+          "icon": "fa-tree",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Friedhöfe",
+        "id": 14,
+        "icon": "fa-tree",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.771702288364,
+            "lng": 9.6729791164398
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=14&singleItemId=34&cHash=8caccaac086e32bd468ee116ec671297",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=14&singleItemId=34&cHash=555415ee7c42626343d898c40d13aea7",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Aussegungshalle<br>Friedhofstraße<br>88281 Schlier - Unterankenreute<br></p></body></html>",
+      "bezeichnung": "Friedhof Unterankenreute",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 35,
+      "kategorien": [
+        {
+          "bezeichnung": "Friedhöfe",
+          "id": 14,
+          "icon": "fa-tree",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Friedhöfe",
+        "id": 14,
+        "icon": "fa-tree",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.800895280723,
+            "lng": 9.6986317634583
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=14&singleItemId=35&cHash=a183210ab83e30474b3319212cba64c9",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=14&singleItemId=35&cHash=afc5db482b191d088a7b667b3fdc512c",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/einkaufen/dorfladen/baecker\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Dorfladen Ankenreute</a><br>Wolfegger Str. 2<br>88281 Schlier - Unterankenreute<br><span class=\"phonenumber\">07529 6347836</span> </p> <p><a href=\"http://www.dorfladen-ankenreute.de/\" title=\"Öffnet externen Link im neuen Fenster\" target=\"_blank\" class=\"external-link-new-window\">weiter zur Homepage</a></p><div class=\"indent\"><p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Montag 6:30 - 13:00 Uhr und 14:30 - 18:30 Uhr<br>Dienstag 6:30 - 13:00 Uhr und 14:30 - 18:30 Uhr<br>Mittwoch 6:30 - 13:00 Uhr Nachmittag geschlossen<br>Donnerstag 6:30 - 13:00 Uhr 14:30 - 18:30 Uhr<br>Freitag 6:30 - 13:00 Uhr und 14:30 - 18:30 Uhr<br>Samstag 7:00 - 12:00 Uhr<br>Sonntag 8:00 - 11:00 Uhr</p></div></body></html>",
+      "bezeichnung": "Dorfladen Ankenreute",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 36,
+      "kategorien": [
+        {
+          "bezeichnung": "Einzelhandel",
+          "id": 15,
+          "icon": "fa-shopping-cart",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Einzelhandel",
+        "id": 15,
+        "icon": "fa-shopping-cart",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.798600991118,
+            "lng": 9.69786465168
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=15&singleItemId=36&cHash=5d78bddd7d2f772fe2cf1baad2450c6d",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=15&singleItemId=36&cHash=21b668a03bea7ce0721a81f274624f53",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/einkaufen/getraenkemaerkte\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Getränkemarkt Vees</a><br>Erlenweg 3<br>88281 Schlier - Unterankenreute </p> <p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Montag - Freitag 10:00 - 12:00 Uhr und 16:00 - 19:00 Uhr<br>Samstag 9:00 - 14:00 Uhr</p></body></html>",
+      "bezeichnung": "Getränkemarkt Vees",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 37,
+      "kategorien": [
+        {
+          "bezeichnung": "Einzelhandel",
+          "id": 15,
+          "icon": "fa-shopping-cart",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Einzelhandel",
+        "id": 15,
+        "icon": "fa-shopping-cart",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.803087138827,
+            "lng": 9.6935141086578
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=15&singleItemId=37&cHash=d8148673a472f9b82e1edb6593c3bf85",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=15&singleItemId=37&cHash=e84e245b7a7db1306b75a4e011d64d09",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/leben-freizeit/einkaufen/getraenkemaerkte\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Getränkemarkt Pohl</a><br>Welfenstraße 2<br>88281 Schlier - Fenken </p> <p><span class=\"text-highlight\">Öffnungszeiten:</span><br>Montag - Freitag 9:00 - 18:00 Uhr<br>Samstag 8:00 - 13:00 Uhr</p></body></html>",
+      "bezeichnung": "Getränkemarkt Pohl",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 38,
+      "kategorien": [
+        {
+          "bezeichnung": "Einzelhandel",
+          "id": 15,
+          "icon": "fa-shopping-cart",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Einzelhandel",
+        "id": 15,
+        "icon": "fa-shopping-cart",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.774682747747,
+            "lng": 9.6546864509583
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=15&singleItemId=38&cHash=9ccabbf0d9500f93af23581a3b781676",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=15&singleItemId=38&cHash=3919e8fa38039ae2e9f1327b885eaf7a",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Norbert Dimmler<br>Breite Äcker 5<br>88281 Schlier - Wetzisreute<br><span class=\"phonenumber\">07529 8939262</span></p></body></html>",
+      "bezeichnung": "Bäckerei \"Wannis Backstube\"",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 40,
+      "kategorien": [
+        {
+          "bezeichnung": "Einzelhandel",
+          "id": 15,
+          "icon": "fa-shopping-cart",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Einzelhandel",
+        "id": 15,
+        "icon": "fa-shopping-cart",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.780429032408,
+            "lng": 9.7019630670547
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=15&singleItemId=40&cHash=4698a117ec49dc60033b8db11d64aec1",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=15&singleItemId=40&cHash=ed4509486d2a1013ce2394c21cffa8cf",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Wannis Backstube<br> -Filliale Schlier-<br> Dorfplatz 23<br> 88281 Schlier</p> <p>Tel.: 07529 8029812<br> <a href=\"https://www.wannis-backstube.de\" target=\"_blank\">www.wannis-backstube.de</a></p></body></html>",
+      "bezeichnung": "Bäckerei \"Wannis Backstube\"",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 67,
+      "kategorien": [
+        {
+          "bezeichnung": "Einzelhandel",
+          "id": 15,
+          "icon": "fa-shopping-cart",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Einzelhandel",
+        "id": 15,
+        "icon": "fa-shopping-cart",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.770524586720576,
+            "lng": 9.675020277500154
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 0,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=15&singleItemId=67&cHash=0b0c7705a0b3ba68c2b0868609138a09",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=15&singleItemId=67&cHash=b797cb6986c3939fb0dcc8bc1fe711c7",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Scherzachstraße 4<br>88281 Schlier<br></p></body></html>",
+      "bezeichnung": "ARAL Tankstelle",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 41,
+      "kategorien": [
+        {
+          "bezeichnung": "Tankstellen",
+          "id": 16,
+          "icon": "fa-truck",
+          "icon_style": "fal",
+          "farbe": "blue",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Tankstellen",
+        "id": 16,
+        "icon": "fa-truck",
+        "icon_style": "fal",
+        "farbe": "blue",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.772105004701,
+            "lng": 9.6708065271378
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=16&singleItemId=41&cHash=22724cc8b19d03a2e2e87240bee9066e",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=16&singleItemId=41&cHash=a48af94df02bc4478ea55f9f0d5e7b07",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/familie-jugend/spielplaetze/freizeitareal-wetzisreute\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Beachvolleyball-Feld</a></p></body></html>",
+      "bezeichnung": "Beachvolleyball-Feld",
+      "bild": {
+        "bezeichnung": "Beachvolleyball-Feld",
+        "id": 1062,
+        "url": "https://www.schlier.de/fileadmin/_processed_/8/e/csm_juca_wetzisreute_9_f75afad18b.jpg"
+      },
+      "bilder": [
+        {
+          "bezeichnung": "Beachvolleyball-Feld",
+          "id": 1062,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/e/csm_juca_wetzisreute_9_f75afad18b.jpg"
+        },
+        {
+          "bezeichnung": "Beachvolleyball-Feld",
+          "id": 1063,
+          "url": "https://www.schlier.de/fileadmin/_processed_/8/e/csm_juca_wetzisreute_9_2aeef4290d.jpg"
+        }
+      ],
+      "dateien": [],
+      "id": 42,
+      "kategorien": [
+        {
+          "bezeichnung": "Freizeit",
+          "id": 6,
+          "icon": "fa-futbol",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Freizeit",
+        "id": 6,
+        "icon": "fa-futbol",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.784280562171,
+            "lng": 9.6997207403183
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=6&singleItemId=42&cHash=eff84853e34a98b0cc02992551c9ac4c",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=6&singleItemId=42&cHash=fb8a55f7fa245d79045877b3e3218fc1",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p><a href=\"https://www.schlier.de/wirtschaft-tourismus/sehenswuerdigkeiten/roesslerweiher\" title=\"Öffnet internen Link im aktuellen Fenster\" class=\"internal-link\">Rößlerweiher </a></p></body></html>",
+      "bezeichnung": "Rößlerweiher",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 45,
+      "kategorien": [
+        {
+          "bezeichnung": "Park / Natur",
+          "id": 5,
+          "icon": "fa-tree-alt",
+          "icon_style": "fal",
+          "farbe": "green-light",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Park / Natur",
+        "id": 5,
+        "icon": "fa-tree-alt",
+        "icon_style": "fal",
+        "farbe": "green-light",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.802011579462,
+            "lng": 9.6811008453369
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=5&singleItemId=45&cHash=b1da46728b5ff7ddcfcc4b2f7e28e14a",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=5&singleItemId=45&cHash=f80db4e8fba5cbd003e8ac88da8d77ac",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "<!DOCTYPE html><html lang=\"de\"><head><title>App Content</title><meta charset=\"utf-8\"><style> html { -webkit-text-size-adjust: 100%; } body * { font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu; font-size: 14px; font-weight: 400; line-height: 1.3; background: transparent; box-sizing: border-box; } body p { margin: 1em 0; word-wrap: break-word; overflow-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; } body h2 { font-size: 1.2em; font-weight: 700; } body strong { font-weight: 700; } body a { color: #272727; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; } body figure { margin: 0; margin-top: 70px; } body figure.video { position: relative; padding-top: 75%; } body figure.video iframe { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } body figcaption { font-style: italic; font-size: calc(14px - 1px); } body .contentelement { margin-top: 2em; } body .contentelement:first-child { margin-top: 0; } body .contentbereichInfobox { position: relative; padding: 0.5em 1.5em; width: 100%; margin-top: 2em; background: #F2F2F2; border: 1px solid #E2E2E2; } body img { max-width: 100%; } body iframe { width: 100%; } body .frame-accordion .frame-title { display: block; position: relative; margin: 2px 0 0 0; padding: .8em .5em .8em 26px; border: none; background: transparent; border-bottom: 1.5px dotted #e2e2e2; transition: border 0ms linear 1000ms; } body .frame-accordion .frame-title:before { content: \"+\"; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; font-weight: 400; color: #272727; position: absolute; top: 50%; transform: translateY(calc(-50% - 2px)); left: 0; font-size: 26px; line-height: 1; } body .frame-accordion .frame-title.active { border-bottom: none; transition: border 0ms linear 0ms; } body .frame-accordion .frame-title.active:before { content: \"-\"; } body .frame-accordion .frame-title.active + .js-accordion-wrap { border-bottom: 1px solid #e2e2e2; transition: max-height 1000ms ease-out, border-color 0ms linear 0ms; } body .frame-accordion .frame-title button { display: block; width: 100%; text-align: left; padding: .8em .5em .8em 0; border: none; position: relative; } body .frame-accordion .frame-title button span { font-weight: 600; } body .frame-accordion .js-accordion-wrap { display: none; border-bottom: 1px solid transparent; padding: 1px; max-height: 0; overflow: hidden; transition: max-height 1000ms ease-out, border-color 0ms linear 1000ms; } /*# sourceMappingURL=app.css.map */ </style></head><body><p>Neubaugebiet <span class=\"text-highlight\">\"Am Bergle\"</span> mit innovativem Energiekonzept</p></body></html>",
+      "bezeichnung": "Baugebiet Am Bergle",
+      "bild": null,
+      "bilder": [],
+      "dateien": [
+        {
+          "bezeichnung": "Ausschreibung_MFH",
+          "id": 1064,
+          "url": "https://www.schlier.de/fileadmin/Dateien/Webseite/Dateien/PDF/Ausschreibungen/MFH_Am_Bergle/Ausschreibung_MFH.pdf"
+        }
+      ],
+      "id": 46,
+      "kategorien": [
+        {
+          "bezeichnung": "Behörden",
+          "id": 2,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "yellow",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Behörden",
+        "id": 2,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "yellow",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.801976267749,
+            "lng": 9.6977198123932
+          }
+        ],
+        "options": {
+          "color": "#FF0000",
+          "weight": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=2&singleItemId=46&cHash=d046efccefc54c07b8ad843714674e48",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=2&singleItemId=46&cHash=2e33d106038c981a8deb43352f8a32c7",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "",
+      "bezeichnung": "Wanderweg",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 59,
+      "kategorien": [
+        {
+          "bezeichnung": "Wandern",
+          "id": 17,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Wandern",
+        "id": 17,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "polyline",
+        "coords": [
+          {
+            "lat": 47.791180521352366,
+            "lng": 9.67050075531006
+          },
+          {
+            "lat": 47.786711367081736,
+            "lng": 9.677667617797853
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 0,
+          "type": "polyline",
+          "fillOpacity": 0.2,
+          "stroke": true,
+          "radius": 0,
+          "opacity": 1,
+          "fill": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=17&singleItemId=59&cHash=ad85276a27ab0c76ff16650df25651a6",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=17&singleItemId=59&cHash=27b5ed36831932267bbb7853ec4aa80a",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "",
+      "bezeichnung": "Wanderweg",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 61,
+      "kategorien": [
+        {
+          "bezeichnung": "Wandern",
+          "id": 17,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Wandern",
+        "id": 17,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "rectangle",
+        "coords": [
+          {
+            "lat": 47.789335239717715,
+            "lng": 9.66277599334717
+          },
+          {
+            "lat": 47.791324681220765,
+            "lng": 9.66277599334717
+          },
+          {
+            "lat": 47.791324681220765,
+            "lng": 9.665307998657228
+          },
+          {
+            "lat": 47.789335239717715,
+            "lng": 9.665307998657228
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 2,
+          "type": "rectangle",
+          "fill": true,
+          "fillOpacity": 0.2,
+          "stroke": true,
+          "radius": 0,
+          "opacity": 1
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=17&singleItemId=61&cHash=13bc400cad25ecc6d92b139b4120287a",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=17&singleItemId=61&cHash=411ca83591c79f3d3879b0ddb382d881",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "",
+      "bezeichnung": "Wanderweg",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 62,
+      "kategorien": [
+        {
+          "bezeichnung": "Wandern",
+          "id": 17,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Wandern",
+        "id": 17,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "circle",
+        "coords": [
+          {
+            "lat": 47.7894505717394,
+            "lng": 9.666123390197756
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 3,
+          "type": "circle",
+          "radius": 205.64138658047244,
+          "fill": true,
+          "fillOpacity": 0.2,
+          "opacity": 0.5,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=17&singleItemId=62&cHash=48f2ab92092c314dffbc919fbe0f5f75",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=17&singleItemId=62&cHash=c8b24da51918c9f64e8f90d3de7f41b1",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "",
+      "bezeichnung": "Wanderweg",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 63,
+      "kategorien": [
+        {
+          "bezeichnung": "Wandern",
+          "id": 17,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Sehenswürdigkeiten",
+        "id": 4,
+        "icon": "fa-binoculars",
+        "icon_style": "fal",
+        "farbe": "violet",
+        "form": "circle"
+      },
+      "data": {
+        "type": "marker",
+        "coords": [
+          {
+            "lat": 47.78584632509192,
+            "lng": 9.677882194519045
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 4,
+          "type": "marker",
+          "radius": 0,
+          "fillOpacity": 0.5,
+          "opacity": 1,
+          "fill": true,
+          "stroke": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=17&singleItemId=63&cHash=8d58da695af260769e811358febe2ae3",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=17&singleItemId=63&cHash=2c44bb43df613a346c32b87bb948800a",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "",
+      "bezeichnung": "WanderwegeTest",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 53,
+      "kategorien": [
+        {
+          "bezeichnung": "Wandern",
+          "id": 17,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Wandern",
+        "id": 17,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "polyline",
+        "coords": [
+          {
+            "lat": 47.788441407871886,
+            "lng": 9.67376232147217
+          },
+          {
+            "lat": 47.79135351314648,
+            "lng": 9.670543670654299
+          },
+          {
+            "lat": 47.79236262046842,
+            "lng": 9.667625427246094
+          },
+          {
+            "lat": 47.794496097152354,
+            "lng": 9.670157432556152
+          },
+          {
+            "lat": 47.79443843677203,
+            "lng": 9.678525924682619
+          },
+          {
+            "lat": 47.79135351314648,
+            "lng": 9.681615829467775
+          },
+          {
+            "lat": 47.794063642740475,
+            "lng": 9.693202972412111
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 0,
+          "type": "polyline",
+          "fillOpacity": 0.2,
+          "stroke": true,
+          "radius": 0,
+          "opacity": 1,
+          "fill": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=17&singleItemId=53&cHash=ac5073c2d62e1f024629833060409a14",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=17&singleItemId=53&cHash=bd6f3fc75dcb29454bcb23a503e5e179",
+      "isDetailsWebsite": false
+    },
+    {
+      "beschreibung": "",
+      "bezeichnung": "WanderwegeTest",
+      "bild": null,
+      "bilder": [],
+      "dateien": [],
+      "id": 54,
+      "kategorien": [
+        {
+          "bezeichnung": "Wandern",
+          "id": 17,
+          "icon": "fa-map-signs",
+          "icon_style": "fal",
+          "farbe": "red",
+          "form": "circle"
+        }
+      ],
+      "icon": {
+        "bezeichnung": "Wandern",
+        "id": 17,
+        "icon": "fa-map-signs",
+        "icon_style": "fal",
+        "farbe": "red",
+        "form": "circle"
+      },
+      "data": {
+        "type": "polyline",
+        "coords": [
+          {
+            "lat": 47.78506777499206,
+            "lng": 9.66251850128174
+          },
+          {
+            "lat": 47.7857309850722,
+            "lng": 9.659600257873535
+          },
+          {
+            "lat": 47.78772056454095,
+            "lng": 9.657626152038576
+          },
+          {
+            "lat": 47.790229056191414,
+            "lng": 9.656767845153809
+          },
+          {
+            "lat": 47.79221846347923,
+            "lng": 9.658441543579103
+          },
+          {
+            "lat": 47.785154281134574,
+            "lng": 9.664106369018556
+          }
+        ],
+        "options": {
+          "color": "#FF0505",
+          "weight": 4,
+          "mapId": 1,
+          "type": "polyline",
+          "fillOpacity": 0.2,
+          "stroke": true,
+          "radius": 0,
+          "opacity": 1,
+          "fill": true
+        }
+      },
+      "urlPopUp": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2PopUp&kategorieIds=17&singleItemId=54&cHash=201fe08fedb06ba5e5c1ee45133cd2e9",
+      "urlDetails": "https://www.schlier.de/app-connection-v3-nativ?action=getGeomap2Details&kategorieIds=17&singleItemId=54&cHash=abc7162862f5a087739d47cc906dc6a3",
+      "isDetailsWebsite": false
+    }
+  ],
+  "status": "ok"
+}
