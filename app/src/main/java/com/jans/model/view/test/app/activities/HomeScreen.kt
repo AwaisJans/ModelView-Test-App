@@ -7,7 +7,6 @@ import com.jans.model.view.test.app.databinding.ActivityHomeBinding
 
 class HomeScreen : AppCompatActivity() {
 
-
     private lateinit var binding: ActivityHomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,20 +16,14 @@ class HomeScreen : AppCompatActivity() {
 
         setContentView(binding.root)
 
-
         binding.btn1.setOnClickListener {
-            goToScreen(this,ModelView1Screen::class.java)
+            goToScreen(this,1,RVScreen::class.java)
         }
 
-
-
+        binding.btn2.setOnClickListener {
+            goToScreen(this,2,RVScreen::class.java)
+        }
 
     }
-
-
-
-
-
-
 
 }
