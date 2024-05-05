@@ -18,9 +18,6 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".activities.ModelView2Screen"
-            android:exported="false" />
-        <activity
             android:name=".activities.DetailScreen"
             android:exported="false" />
         <activity

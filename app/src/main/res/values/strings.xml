@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Model View Test App</string>
     <string name="image">Image</string>
+    <string name="model_1_same_rv">Model 1 Same RV</string>
+    <string name="model_2_same_rv">Model 2 Same RV</string>
 </resources>

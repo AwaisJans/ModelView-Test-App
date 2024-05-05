@@ -1,15 +1,11 @@
 package com.jans.model.view.test.app.activities
 
-import android.annotation.SuppressLint
-import android.graphics.Bitmap
 import android.graphics.Color
 import android.os.Bundle
 import android.util.Log
 import android.view.View
 import android.view.View.GONE
 import android.view.View.VISIBLE
-import android.webkit.WebView
-import android.webkit.WebViewClient
 import android.widget.RelativeLayout
 import androidx.appcompat.app.AppCompatActivity
 import com.android.volley.Request
@@ -20,7 +16,6 @@ import com.bumptech.glide.request.RequestOptions
 import com.google.gson.Gson
 import com.jans.model.view.test.app.Config.Companion.LoadingIndicatorView
 import com.jans.model.view.test.app.R
-import com.jans.model.view.test.app.adapter.ProductsAdapter
 import com.jans.model.view.test.app.databinding.ActivityDetailScreenBinding
 import com.jans.model.view.test.app.model.model1Classes.Model1DetailModelClass
 import com.jans.model.view.test.app.model.model2Classes.Model2DetailModelClass

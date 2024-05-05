@@ -10,6 +10,7 @@ import android.graphics.Paint
 import android.graphics.drawable.ShapeDrawable
 import android.graphics.drawable.shapes.RoundRectShape
 import android.os.Handler
+import android.os.Looper
 import android.view.animation.RotateAnimation
 import android.widget.RelativeLayout
 import java.io.InputStreamReader
@@ -43,7 +44,7 @@ class Config {
             private var isAnimating = false
             private var currentFrame = 0
 
-            private val handler: Handler = Handler()
+            private val handler: Handler = Handler(Looper.getMainLooper())
             private var playFrameRunnable: Runnable? = null
 
             init {
@@ -54,10 +55,10 @@ class Config {
             }
 
             private fun initViews() {
-                arrBars = ArrayList<LoadingIndicatorBarView>()
+                arrBars = ArrayList()
 
                 for (i in 0 until numberOfBars) {
-                    val bar: LoadingIndicatorBarView =
+                    val bar =
                         LoadingIndicatorBarView(context, radius / 10.0f)
 
                     arrBars!!.add(bar)
@@ -153,7 +154,7 @@ class Config {
             }
 
             private fun resetAllBarAlpha() {
-                var bar: LoadingIndicatorBarView? = null
+                var bar: LoadingIndicatorBarView?
 
                 for (i in arrBars!!.indices) {
                     bar = arrBars!![i]
@@ -204,7 +205,7 @@ class Config {
             private fun gradientColorBarSets(indexes: IntArray) {
                 var alpha = 1.0f
 
-                var barView: LoadingIndicatorBarView? = null
+                var barView: LoadingIndicatorBarView?
 
                 for (i in indexes.indices) {
                     val barIndex = indexes[i]
@@ -238,55 +239,12 @@ class Config {
 
                 alpha = 0.5f
             }
-
-            fun resetColor() {
-                background = ToolBox.roundedCornerRectWithColor(
-                    Color.argb(255, 255, 255, 255), cornerRadius
-                )
-
-                alpha = 0.5f
-            }
         }
 
         @SuppressLint("StaticFieldLeak")
         class ToolBox
         private constructor() {
-            var context: Context? = null
-
             companion object {
-                @get:Synchronized
-                var instance: ToolBox? = null
-                    get() {
-                        if (field == null) {
-                            field = ToolBox()
-                        }
-
-                        return field
-                    }
-                    private set
-
-                fun roundedCornerRectOutlineWithColor(
-                    color: Int, cornerRadius: Float,
-                    strokeWidth: Float
-                ): ShapeDrawable {
-                    val radii = floatArrayOf(
-                        cornerRadius, cornerRadius,
-                        cornerRadius, cornerRadius,
-                        cornerRadius, cornerRadius,
-                        cornerRadius, cornerRadius
-                    )
-
-                    val roundedCornerShape = RoundRectShape(radii, null, null)
-
-                    val shape = ShapeDrawable()
-                    shape.paint.color = color
-                    shape.shape = roundedCornerShape
-                    shape.paint.strokeWidth = strokeWidth
-                    shape.paint.style = Paint.Style.STROKE
-
-                    return shape
-                }
-
                 fun roundedCornerRectWithColor(color: Int, cornerRadius: Float): ShapeDrawable {
                     val radii = floatArrayOf(
                         cornerRadius, cornerRadius,
@@ -302,43 +260,6 @@ class Config {
                     shape.shape = roundedCornerShape
 
                     return shape
-                }
-
-                fun roundedCornerRectWithColor(
-                    color: Int,
-                    topLeftRadius: Float,
-                    topRightRadius: Float,
-                    bottomRightRadius: Float,
-                    bottomLeftRadius: Float
-                ): ShapeDrawable {
-                    val radii = floatArrayOf(
-                        topLeftRadius, topLeftRadius,
-                        topRightRadius, topRightRadius,
-                        bottomRightRadius, bottomRightRadius,
-                        bottomLeftRadius, bottomLeftRadius
-                    )
-
-                    val roundedCornerShape = RoundRectShape(radii, null, null)
-
-                    val shape = ShapeDrawable()
-                    shape.paint.color = color
-                    shape.shape = roundedCornerShape
-
-                    return shape
-                }
-
-                val screenWidth: Int
-                    get() = Resources.getSystem().displayMetrics.widthPixels
-
-                val screenHeight: Int
-                    get() = Resources.getSystem().displayMetrics.heightPixels
-
-                fun getScreenOrientation(context: Context): Int {
-                    return context.resources.configuration.orientation
-                }
-
-                fun isLandscapeOrientation(context: Context): Boolean {
-                    return getScreenOrientation(context) == Configuration.ORIENTATION_LANDSCAPE
                 }
             }
         }

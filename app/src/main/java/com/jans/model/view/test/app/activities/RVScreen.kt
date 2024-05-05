@@ -3,6 +3,7 @@ package com.jans.model.view.test.app.activities
 import android.graphics.Color
 import android.os.Bundle
 import android.os.Handler
+import android.os.Looper
 import android.util.Log
 import android.view.View
 import android.view.View.VISIBLE
@@ -51,8 +52,8 @@ class RVScreen : AppCompatActivity() {
 
     private fun model1RVCode() {
         title = "Model1 RV Screen"
-        Handler().postDelayed({
-            loadingIndicator.stopAnimating();
+        Handler(Looper.getMainLooper()).postDelayed({
+            loadingIndicator.stopAnimating()
             val recyclerView = binding.recyclerView
             /*
                 Model 1 Code to Populate List
@@ -72,8 +73,8 @@ class RVScreen : AppCompatActivity() {
 
     private fun model2RVCode() {
         title = "Model2 RV Screen"
-        Handler().postDelayed({
-            loadingIndicator.stopAnimating();
+        Handler(Looper.getMainLooper()).postDelayed({
+            loadingIndicator.stopAnimating()
             val recyclerView = binding.recyclerView
             /*
                 Model 2 Code to Populate List
@@ -95,8 +96,8 @@ class RVScreen : AppCompatActivity() {
     private fun setupIndicator() {
         val mainLayout = binding.main
         mainLayout.setBackgroundColor(Color.TRANSPARENT)
-        loadingIndicator = LoadingIndicatorView(this, 70);
-        loadingIndicator.alpha = 1.0f;
+        loadingIndicator = LoadingIndicatorView(this, 70)
+        loadingIndicator.alpha = 1.0f
         mainLayout.id = View.generateViewId()
         loadingIndicator.id = View.generateViewId()
         val loadingIndicatorLayoutParams = RelativeLayout.LayoutParams(
