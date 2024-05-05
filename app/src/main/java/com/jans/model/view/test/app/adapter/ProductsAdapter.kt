@@ -29,7 +29,7 @@ class ProductsAdapter(private val productsList: List<Any>?, private val modelToB
         return ItemsVH(view)
     }
 
-    lateinit var mContext: Context
+    private lateinit var mContext: Context
     @SuppressLint("SetTextI18n")
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
         mContext = holder.itemView.context
