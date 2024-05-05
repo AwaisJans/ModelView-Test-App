@@ -19,15 +19,11 @@ class Config {
 
     companion object{
 
-
-
-
-
-        fun goToScreen(context: Context, classActivity: Class<*>){
-            context.startActivity(Intent(context, classActivity))
+        fun goToScreen(context: Context,value:Int, classActivity: Class<*>){
+            val intent = Intent(context, classActivity)
+            intent.putExtra("ModelToBe",value)
+            context.startActivity(intent)
         }
-
-
 
         fun readJsonFileWithGson(context: Context, rawFileId: Int): String {
                 val inputStream = context.resources.openRawResource(rawFileId)
@@ -346,10 +342,6 @@ class Config {
                 }
             }
         }
-
-
-
-
         }
 
 
